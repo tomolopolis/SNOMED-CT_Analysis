@@ -17,4 +17,4 @@ The second [notebook](https://github.com/tomolopolis/SNOMED-CT_Analysis/blob/mas
 
 ## Analyse SNOMED-CT Relations
 
-A further supplemantary (notebook)[] is provided that analyses the relation terms in SNOMED-CT and produces various caches of relations for the previously loaded concepts.
+A further supplemantary [notebook][https://github.com/tomolopolis/SNOMED-CT_Analysis/blob/master/SNOMED%20hierarchies.ipynb] is provided that analyses the relation terms in SNOMED-CT and produces various caches of relations for the previously loaded concepts.
